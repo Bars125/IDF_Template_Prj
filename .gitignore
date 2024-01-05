@@ -2,4 +2,4 @@
 /build
 
 #ignore files
-.network_param.h
+main/network_param.h
