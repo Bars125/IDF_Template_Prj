@@ -1,0 +1,12 @@
+{
+    "idf.flashType": "UART",
+    "idf.portWin": "COM3",
+    "files.associations": {
+        "stdio.h": "c",
+        "*.inc": "c",
+        "atomic": "c",
+        "*.tcc": "c",
+        "chrono": "c",
+        "random": "c"
+    }
+}
