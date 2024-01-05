@@ -7,6 +7,8 @@
         "atomic": "c",
         "*.tcc": "c",
         "chrono": "c",
-        "random": "c"
+        "random": "c",
+        "freertos.h": "c",
+        "network_param.h": "c"
     }
 }

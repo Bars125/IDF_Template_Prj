@@ -1,2 +1,5 @@
-#ignoring specific directories
+#ignoring directories
 /build
+
+#ignore files
+.network_param.h
